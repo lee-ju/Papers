@@ -1,8 +1,8 @@
-### Papers
 ### Journal
 ##### A Study on prediction of patent big data using supervised learning with dimension reduction model, Journal of the Korea Society of Digital Industry and Infromation Management, 15(4), pp. 41-49, 2019 <J. Lee, J. Lee, J. Kang, S. Park, D. Jang, S. Hong, S. Kim>
 ##### Prediction of Robot Technology Using Multi-phase Model, Journal of Advances in Information Technology, 11(3), pp. 181-185, 2020 <J. Lee, J. Lee, J. Kang, S. Park, D. Jang>
 ##### A Multi–Class Classification Model for Technology Evaluation, Sustainability, 12(15), 6153, 2020 <J. Lee, J. Kang, S. Park, D. Jang, J. Lee>
+##### 
 ### Conference
 ##### Core Patent Exploration Using Data Mining Technique, In Proceedings of Korean Institute of Intelligent Systems, Seoul, Korea, 2018 Apr. 19-21 <J. Lee, J. Lee, J. Kang, S. Park, S. Jun, D. Jang>
 ##### Performance Comparison of Patent Classification Using Machine Learning Models, In Proceedings of the Korea Society of Computer and Information, Jeju, Korea, 2018 Aug. 16-18 <J. Lee, J. Kang, A. Park, S. Park, D. Jang>
