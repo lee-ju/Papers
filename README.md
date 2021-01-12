@@ -16,4 +16,4 @@
 > ### **International**
 >	> ##### * J. Lee, J. Lee, J. Kang, S. Park, S. Jun, and D. Jang. "<ins>A Method for Technology Visualization using Embedded Words</ins>". International Conference on Engineering, Science and Applications, pp. 199-200, Tokyo, Japan, 2018 Aug. 22-24
 >	> ##### * J. Lee, J. Kang, J. Lee, S. Park, S. Jun, and D. Jang. "<ins>A Study on the Visualization of Technology using weighted Global Vectors for Word Representation</ins>". International Conference on Fuzzy Theory and Its Applications, Daegu, Korea, 2018 Nov. 14-17
->	> ##### * J. Lee, J. Lee, J. Kang, S. Park, S. Jun, and D. Jang. "<insA Study on Visualization of Technology Transfer using Distance based Patent Network Analysis></ins>". International Conference on Information Communication and Management, Prague, Czech Republic, 2019 Aug. 23-26
+>	> ##### * J. Lee, J. Lee, J. Kang, S. Park, S. Jun, and D. Jang. "<ins>A Study on Visualization of Technology Transfer using Distance based Patent Network Analysis</ins>". International Conference on Information Communication and Management, Prague, Czech Republic, 2019 Aug. 23-26
