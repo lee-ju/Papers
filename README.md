@@ -1,6 +1,6 @@
 ## Journal
-### Domestic
-##### A Study on prediction of patent big data using supervised learning with dimension reduction model, Journal of the Korea Society of Digital Industry and Infromation Management, 15(4), pp. 41-49, 2019 <J. Lee, J. Lee, J. Kang, S. Park, D. Jang, S. Hong, S. Kim>
+> ### Domestic
+>	> ##### A Study on prediction of patent big data using supervised learning with dimension reduction model, Journal of the Korea Society of Digital Industry and Infromation Management, 15(4), pp. 41-49, 2019 <J. Lee, J. Lee, J. Kang, S. Park, D. Jang, S. Hong, S. Kim>
 ### International
 ##### Prediction of Robot Technology Using Multi-phase Model, Journal of Advances in Information Technology, 11(3), pp. 181-185, 2020 <J. Lee, J. Lee, J. Kang, S. Park, D. Jang>
 ##### A Multi–Class Classification Model for Technology Evaluation, Sustainability, 12(15), 6153, 2020 <J. Lee, J. Kang, S. Park, D. Jang, J. Lee>
