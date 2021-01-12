@@ -1,12 +1,11 @@
-## Journal
-[dle](https://google.com, "google link")
+## **Journal**
 > ### **Domestic**
->	> ##### * A Study on prediction of patent big data using supervised learning with dimension reduction model, _Journal of the Korea Society of Digital Industry and Infromation Management_, 15(4), pp. 41-49, 2019 <J. Lee, J. Lee, J. Kang, S. Park, D. Jang, S. Hong, S. Kim>
+>	> ##### * A Study on prediction of patent big data using supervised learning with dimension reduction model, _Journal of the Korea Society of Digital Industry and Infromation Management_, 15(4), pp. 41-49, 2019 <J. Lee, J. Lee, J. Kang, S. Park, D. Jang, S. Hong, S. Kim> [Click](https://doi.org/10.17662/ksdim.2019.15.4.041, "Click")
 > ### **International**
 >	> ##### * Prediction of Robot Technology Using Multi-phase Model, _Journal of Advances in Information Technology_, 11(3), pp. 181-185, 2020 <J. Lee, J. Lee, J. Kang, S. Park, D. Jang>
 >	> ##### A Multi–Class Classification Model for Technology Evaluation, _Sustainability_, 12(15), 6153, 2020 <J. Lee, J. Kang, S. Park, D. Jang, J. Lee>
 ##### 
-## Conference
+## **Conference**
 > ### **Domestic**
 >	> ##### * Core Patent Exploration Using Data Mining Technique, In _Proceedings of Korean Institute of Intelligent Systems_, Seoul, Korea, 2018 Apr. 19-21 <J. Lee, J. Lee, J. Kang, S. Park, S. Jun, D. Jang>
 >	> ##### * Performance Comparison of Patent Classification Using Machine Learning Models, In _Proceedings of the Korea Society of Computer and Information_, Jeju, Korea, 2018 Aug. 16-18 <J. Lee, J. Kang, A. Park, S. Park, D. Jang>
