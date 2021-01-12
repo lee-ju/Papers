@@ -1,4 +1,5 @@
 ## **Journal**
+<ins>text</ins>
 > ### **Domestic**
 >	> ##### * J. Lee, J. Lee, J. Kang, S. Park, D. Jang, S. Hong, and S. Kim, "A Study on prediction of patent big data using supervised learning with dimension reduction model". _Journal of the Korea Society of Digital Industry and Infromation Management_, 15(4), pp. 41-49, 2019 <http://dx.doi.org/10.17662/ksdim.2019.15.4.041>
 > ### **International**
