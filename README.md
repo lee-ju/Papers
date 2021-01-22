@@ -4,6 +4,7 @@
 > ### **International**
 >	> ##### * J. Lee, J. Lee, J. Kang, S. Park, and D. Jang. "<ins>Prediction of Robot Technology Using Multi-phase Model</ins>". _Journal of Advances in Information Technology_, 11(3), pp. 181-185, 2020 <ins><http://10.12720/jait.11.3.181-185></ins>
 >	> ##### * J. Lee, J. Kang, S. Park, D. Jang, and J. Lee. "<ins>A Multi–Class Classification Model for Technology Evaluation</ins>". _Sustainability_, 12(15), 6153, 2020 <ins><https://doi.org/10.3390/su12156153></ins>
+>	> ##### * J. Lee, S. Park, and J. Kang. "<ins>Introducing Patents with Indirect Connection (PIC) for Establishing Patent Strategies</ins>". _Sustainability_, 13(2), 820, 2021 <ins><https://doi.org/10.3390/su13020820></ins>
 ##### 
 ## **Conference**
 > ### **Domestic**
