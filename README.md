@@ -23,6 +23,7 @@
 >	> ##### * J. Lee, J. Lee, J. Kang, S. Park, S. Jun, and D. Jang. "<ins>Core Patent Exploration Using Data Mining Technique</ins>". In _Proceedings of Korean Institute of Intelligent Systems_, Seoul, Korea, 2018 Apr. 19-21
   
 > ### **International**
+> > ##### * J. Lee, J. Lee, J. Kang, Y. Kim, D. Jang, and S. Park. "<ins>Multimodal Deep Learning for Patent Classification</ins>". In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press_, UK, London, 2021 Feb. 25-26
 >	> ##### * J. Lee, J. Lee, J. Kang, S. Park, S. Jun, and D. Jang. "<ins>A Study on Visualization of Technology Transfer using Distance based Patent Network Analysis</ins>". International Conference on Information Communication and Management, Prague, Czech Republic, 2019 Aug. 23-26
 >	> ##### * J. Lee, J. Kang, J. Lee, S. Park, S. Jun, and D. Jang. "<ins>A Study on the Visualization of Technology using weighted Global Vectors for Word Representation</ins>". International Conference on Fuzzy Theory and Its Applications, Daegu, Korea, 2018 Nov. 14-17  
 >	> ##### * J. Lee, J. Lee, J. Kang, S. Park, S. Jun, and D. Jang. "<ins>A Method for Technology Visualization using Embedded Words</ins>". International Conference on Engineering, Science and Applications, pp. 199-200, Tokyo, Japan, 2018 Aug. 22-24
