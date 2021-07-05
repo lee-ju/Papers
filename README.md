@@ -5,9 +5,9 @@
 > > ### **E-mail**: leeju@korea.ac.kr
 > > ### **Gender**: Male
 > > ### **Research Interests**
-> > > [x] Machine Learning & Deep Learning
-> > > [x] Natural Language Processing
-> > > [x] Technology Management
+> > > - [x] Machine Learning & Deep Learning
+> > > - [x] Natural Language Processing
+> > > - [x] Technology Management
 > ## **Education**
 > > ### **Ph.D.**
 > > > * 2018.03 - now | Ph.D. Candidates | Industrial Engineering | [Korea University](https://vision.korea.ac.kr)
