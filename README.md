@@ -19,6 +19,8 @@
 > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, S. Park, S. Jun, and D. Jang. `"A Method for Technology Visualization using Embedded Words"`. International Conference on Engineering, Science and Applications, pp. 199-200, Tokyo, Japan, 2018 Aug. 22-24
 > ### **Domestic**
 > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, S. Park, and D. Jang. `"A Study on the Expansion of Patent Data based on Generative Model"`. In _Proceedings of Korean Institute of Intelligent Systems_, Seoul, Korea, 2021 Apr. 23-24
+> > * D. Kim, S. Lee, <ins>**J. Lee**</ins>, S. Park. `"A Study on the Classification of Technology using Natural Language Processing Algorithm"`. In _Proceedings of Korean Institute of Intelligent Systems_, Jeonju, Korea, 2020 Nov. 26-27
+> > * D. Kim, S. Lee, <ins>**J. Lee**</ins>, S. Park. `A Study on the Emerging Technology Prediction using Multi-dimensional Matrix Analysis`. In _Proceedings of Korean Institute of Intelligent Systems_, Seoul, Korea, 2020 Jun. 26-27
 > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, S. Park, and D. Jang. `"A Study on the Machine Learning Model to Predict the Value of the Patent Big Data"`. In _Proceedings of Korean Institute of Intelligent Systems_, Seoul, Korea, 2020 Jun. 26-27
 > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, S. Park, S. Jun, and D. Jang. `"A Study on Visualization using network analysis based on distance"`. In _Proceedings of Korean Institute of Intelligent Systems_, Busan, Korea, 2019 Nov. 1-2
 > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, S. Park, S. Jun, and D. Jang. `"A Study on Distributed Representation for Predicting Technology Transfer"`. In _Proceedings of Korean Institute of Intelligent Systems_, Cheongju, Korea, 2019 Apr. 26-27
