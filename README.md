@@ -11,7 +11,7 @@
 > > #### **Ph.D. Candidates** (2018.03 - now) Industrial Engineering, [Korea University](https://vision.korea.ac.kr)
 > > #### **B.S.** (2012.03 - 2018.02) Statistics, Cheongju University
 
-# **PAPERS**
+# **Papers**
 > ## **Journal**
 > > ### **International**
 > > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, Y. Kim, D. Jang, and S. Park. `"Multimodal Deep Learning for Patent Classification"`. In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press_, UK, London, 2021 Feb. 25-26
