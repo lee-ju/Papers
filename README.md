@@ -3,7 +3,7 @@
 # **I am**
 |Name:|Juhyun Lee(이주현)|E-mail:|leeju@korea.ac.kr|
 |-----|-----|-----|-----|
-|Gender:|Male|Last Edu:|Ph.D. Candidate (2020.02~now)|
+|**Gender:**|**Male**|**Last Edu:**|**Ph.D. Candidate (2020.02~now)**|
 
 # **Juhyun Lee**
 > ## 
