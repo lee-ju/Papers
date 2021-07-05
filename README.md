@@ -1,4 +1,4 @@
-##### Updated: 2021. 07. 05.
+##### Update date: 2021. 07. 05.
 # **Biography**
 > ## **I am**
 > > #### **Name**: Juhyun Lee (이주현)
