@@ -1,17 +1,17 @@
 ##### Updated: 2021. 07. 05.
 # **Biography**
 > ## **I am**
-> > ### **Name**: Juhyun Lee (이주현)
-> > ### **E-mail**: leeju@korea.ac.kr
-> > ### **Gender**: Male
-> > ### **Research Interests**
+> > #### **Name**: Juhyun Lee (이주현)
+> > #### **E-mail**: leeju@korea.ac.kr
+> > #### **Gender**: Male
+> > #### **Research Interests**
 > > > - [x] Machine Learning & Deep Learning
 > > > - [x] Natural Language Processing
 > > > - [x] Technology Management
 > ## **Education**
-> > ### **Ph.D.**
+> > #### **Ph.D.**
 > > > * 2018.03 - now | Ph.D. Candidates | Industrial Engineering | [Korea University](https://vision.korea.ac.kr)
-> > ### **B.S.**
+> > #### **B.S.**
 > > > * 2012.03 - 2018.02 | B.S. | Statistics | Cheongju University
 
 
