@@ -4,7 +4,7 @@
 
 > ### **International**
 
-> > * J. Lee, J. Lee, J. Kang, Y. Kim, D. Jang, and S. Park. `"Multimodal Deep Learning for Patent Classification"`. In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press_, UK, London, 2021 Feb. 25-26
+>> * J. Lee, J. Lee, J. Kang, Y. Kim, D. Jang, and S. Park. `"Multimodal Deep Learning for Patent Classification"`. In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press_, UK, London, 2021 Feb. 25-26
 > > * J. Lee, S. Park, and J. Kang. `"Introducing Patents with Indirect Connection (PIC) for Establishing Patent Strategies"`. _Sustainability_, 13(2), 820, 2021 <ins><https://doi.org/10.3390/su13020820></ins>
 > > * J. Lee, J. Kang, S. Park, D. Jang, and J. Lee. `"A Multi–Class Classification Model for Technology Evaluation"`. _Sustainability_, 12(15), 6153, 2020 <ins><https://doi.org/10.3390/su12156153></ins>
 > > * J. Lee, J. Lee, J. Kang, S. Park, and D. Jang. `"Prediction of Robot Technology Using Multi-phase Model"`. _Journal of Advances in Information Technology_, 11(3), pp. 181-185, 2020 <ins><http://10.12720/jait.11.3.181-185></ins>
