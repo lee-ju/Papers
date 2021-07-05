@@ -5,10 +5,6 @@
 |-----|-----|-----|-----|
 |**Gender:**|**Male**|**Last Edu:**|**Ph.D. Candidate (2020.02~now)**|
 
-# **Juhyun Lee**
-> ## 
-> > ###
-
 # **EDUCATION**
 |Date|Degree|Major|Univ|
 |-----|-----|-----|-----|
