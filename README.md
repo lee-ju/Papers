@@ -1,9 +1,10 @@
 ##### Updated: 2021. 07. 05.
 # **Biography**
 > ## **I am**
-> > #### **Name**: Juhyun Lee (이주현)
-> > #### **E-mail**: leeju@korea.ac.kr
-> > #### **Gender**: Male
+> > #### **Name**
+> > > * Juhyun Lee (이주현)
+> > #### **E-mail**
+> > > * leeju@korea.ac.kr
 > > #### **Research Interests**
 > > > - [x] Machine Learning & Deep Learning
 > > > - [x] Natural Language Processing
