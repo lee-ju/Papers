@@ -1,7 +1,12 @@
 ##### Updated: 2021. 06. 22.
+
+## **Journal**
+> ### **International**
+> - * J. Lee, S. Park, and J. Kang. `"<ins>Introducing Patents with Indirect Connection (PIC) for Establishing Patent Strategies</ins>"`. _Sustainability_, 13(2), 820, 2021 <ins><https://doi.org/10.3390/su13020820></ins>
+  
 ## **Journal**
 
-> ### **Domestic**
+  > ### **Domestic**
 >	> ##### * J. Lee, J. Lee, J. Kang, S. Park, D. Jang, S. Hong, and S. Kim, "<ins>A Study on prediction of patent big data using supervised learning with dimension reduction model</ins>". _Journal of the Korea Society of Digital Industry and Infromation Management_, 15(4), pp. 41-49, 2019 <ins><http://dx.doi.org/10.17662/ksdim.2019.15.4.041></ins>
 
 > ### **International**
