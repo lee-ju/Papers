@@ -3,13 +3,13 @@
 > ## **I am**
 > > #### **Name**: Juhyun Lee (이주현)
 > > #### **E-mail**: leeju@korea.ac.kr
-> > #### **Research Interests**
-> > > - [x] Machine Learning & Deep Learning
-> > > - [x] Natural Language Processing
-> > > - [x] Technology Management
 > ## **Education**
 > > #### **Ph.D. Candidates**, (2018.03 - now) Industrial Engineering, [Korea University](https://vision.korea.ac.kr)
 > > #### **B.S.**, (2012.03 - 2018.02) Statistics, Cheongju University
+> #### **Research Interests**
+> > - [x] Machine Learning & Deep Learning
+> > - [x] Natural Language Processing
+> > - [x] Technology Management
 
 # **Papers**
 > ## **Journal**
