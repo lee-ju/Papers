@@ -1,8 +1,18 @@
 ##### Updated: 2021. 07. 05.
+
+# **I am**
+|Name:|Juhyun Lee(이주현)|E-mail:|leeju@korea.ac.kr|
+|-----|-----|-----|-----|
+|Gender:|Male|Last Edu:|Ph.D. Candidate (2020.02~now)|
+
+# **Juhyun Lee**
+> ## 
+> > ###
+
 # **EDUCATION**
 |Date|Degree|Major|Univ|
 |-----|-----|-----|-----|
-|2018.03 - now|Ph.D.|Industrial Engineering|[Korea University](https://vision.korea.ac.kr)|
+|2018.03 - now|Ph.D. Candidates|Industrial Engineering|[Korea University](https://vision.korea.ac.kr)|
 |2012.03 - 2018.02|B.S.|Statistics|Cheongju University|
 
 
