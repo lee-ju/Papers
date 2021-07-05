@@ -1,6 +1,7 @@
 ##### Updated: 2021. 07. 05.
 # **Education**
 |Date|Degree|Major|Univ|
+|-----|-----|-----|-----|
 |2018.03 - now|Ph.D.|Industrial Engineering|[Korea University](https://vision.korea.ac.kr)|
 |2012.03 - 2018.02|B.S.|Statistics|Cheongju University|
 
