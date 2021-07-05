@@ -9,10 +9,8 @@
 > > > - [x] Natural Language Processing
 > > > - [x] Technology Management
 > ## **Education**
-> > #### **Ph.D.**
-> > > * 2018.03 - now | Ph.D. Candidates | Industrial Engineering | [Korea University](https://vision.korea.ac.kr)
-> > #### **B.S.**
-> > > * 2012.03 - 2018.02 | B.S. | Statistics | Cheongju University
+> > #### **Ph.D. Candidates** | 2018.03 - now | Industrial Engineering | [Korea University](https://vision.korea.ac.kr)
+> > #### **B.S.** | 2012.03 - 2018.02 | Statistics | Cheongju University
 
 
 # **PAPERS**
