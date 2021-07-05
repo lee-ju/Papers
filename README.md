@@ -2,7 +2,7 @@
 
 ## **Journal**
 > ### **International**
-> * J. Lee, S. Park, and J. Kang. `"<ins>Introducing Patents with Indirect Connection (PIC) for Establishing Patent Strategies</ins>"`. _Sustainability_, 13(2), 820, 2021 <ins><https://doi.org/10.3390/su13020820></ins>
+> * J. Lee, S. Park, and J. Kang. `"Introducing Patents with Indirect Connection (PIC) for Establishing Patent Strategies"`. _Sustainability_, 13(2), 820, 2021 <ins><https://doi.org/10.3390/su13020820></ins>
   
 ## **Journal**
 
