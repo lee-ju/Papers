@@ -19,7 +19,7 @@
 > > #### **Campus Patent Universiade [우수상**](https://www.kipa.org/cpu/4_u2020.jsp) (2020.11)
 > > #### **Patent Datathon 특허청장상** (2020.09)
 > > #### **Campus Patent Universiade [우수상**](https://www.kipa.org/cpu/4_u2019.jsp) (2019.11)
-> > #### * Campus Patent Universiade [**장려상**](https://www.kipa.org/cpu/4_u2018.jsp) (2018.11)
+> > #### + Campus Patent Universiade [**장려상**](https://www.kipa.org/cpu/4_u2018.jsp) (2018.11)
 
 # **Papers**
 > ## **Journal**
