@@ -1,6 +1,7 @@
 ##### Update date: 2021. 07. 05.
-# **Biography**
+
 =============================================
+# **Biography**
 > ## **I am**
 > > #### - **Name**: Juhyun Lee (이주현)
 > > #### - **E-mail**: leeju@korea.ac.kr
@@ -12,9 +13,9 @@
 > > - [x] Natural Language Processing
 > > - [x] Machine Learning with Graphs
 > > - [x] Technology Management
+
 =============================================
 # **Awards**
-=============================================
 > ## **Honors**
 > > #### - **Korea University Graduate Student Achievement Award** (2021.02)
 > ## **Competitions**
@@ -23,6 +24,7 @@
 > > #### - Campus Patent Universiade [**우수상**](https://www.kipa.org/cpu/4_u2019.jsp) (2019.11)
 > > #### - Campus Patent Universiade [**장려상**](https://www.kipa.org/cpu/4_u2018.jsp) (2018.11)
 
+=============================================
 # **Papers**
 > ## **Journal**
 > > ### **International**
