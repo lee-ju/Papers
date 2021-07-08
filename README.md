@@ -1,7 +1,7 @@
 ##### Update date: 2021. 07. 05. 👋
 
 ### **Juhyun Lee (이주현)** ⚡⚡
-#### E-mail: leeju@korea.ac.kr
+##### E-mail: leeju@korea.ac.kr
 - - -
 ### 📗 **Education**
 
@@ -34,7 +34,7 @@
 ##### 📌 Campus Patent Universiade [**장려상**](https://www.kipa.org/cpu/4_u2018.jsp) (2018.11)
 
 - - -
-📄 **Papers**
+### 📄 **Papers**
 > #### **Journal**
 > > #### **International**
 > > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, Y. Kim, D. Jang, and S. Park. `"Multimodal Deep Learning for Patent Classification"`. In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press_, UK, London, 2021 Feb. 25-26
