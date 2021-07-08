@@ -1,6 +1,6 @@
-##### Update date: 2021. 07. 05.
+##### Update date: 2021. 07. 05. 👋
 
-### **Juhyun Lee (이주현)**
+### **Juhyun Lee (이주현)** ⚡⚡
 #### E-mail: leeju@korea.ac.kr
 - - -
 ### 📗 **Education**
@@ -12,26 +12,26 @@
 - - -
 ### 🌱 **Research Interests**
 
-##### - ✔️ Machine Learning & Deep Learning
+##### ✔️ Machine Learning & Deep Learning
 
-##### - ✔️ Natural Language Processing
+##### ✔️ Natural Language Processing
 
-##### - ✔️ Machine Learning with Graphs
+##### ✔️ Machine Learning with Graphs
 
-##### - ✔️ Technology Management
+##### ✔️ Technology Management
 
 - - -
 ### 🏆 **Honors & Awards**
 
-##### - 📌 Korea University Graduate Student Achievement Award (2021.02)
+##### 📌 Korea University Graduate Student Achievement Award (2021.02)
 
-##### - 📌 Campus Patent Universiade [**우수상**](https://www.kipa.org/cpu/4_u2020.jsp) (2020.11)
+##### 📌 Campus Patent Universiade [**우수상**](https://www.kipa.org/cpu/4_u2020.jsp) (2020.11)
 
-##### - 📌 Patent Datathon **특허청장상** (2020.09)
+##### 📌 Patent Datathon **특허청장상** (2020.09)
 
-##### - 📌 Campus Patent Universiade [**우수상**](https://www.kipa.org/cpu/4_u2019.jsp) (2019.11)
+##### 📌 Campus Patent Universiade [**우수상**](https://www.kipa.org/cpu/4_u2019.jsp) (2019.11)
 
-##### - 📌 Campus Patent Universiade [**장려상**](https://www.kipa.org/cpu/4_u2018.jsp) (2018.11)
+##### 📌 Campus Patent Universiade [**장려상**](https://www.kipa.org/cpu/4_u2018.jsp) (2018.11)
 
 - - -
 📄 **Papers**
