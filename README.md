@@ -9,8 +9,11 @@
 > > #### - **B.S.**, (2012.03 - 2018.02) Statistics, Cheongju University
 > ## **Research Interests**
 > > ✔️ Machine Learning & Deep Learning
+> > 
 > > ✔️ Natural Language Processing
+> > 
 > > ✔️ Machine Learning with Graphs
+> > 
 > > ✔️ Technology Management
 
 - - -
