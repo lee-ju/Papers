@@ -38,7 +38,7 @@
 ##### 📌 제4회 오픈 Minitab 포스터 대회 [**동상**](https://www.minitab.co.kr/minitab/new/product/product0403_05.php) (2015.09)
 - - -
 ### 📄 **Papers**
-> #### **Journal**
+> #### ⚡ **Journal**
 > > #### **International**
 > > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, Y. Kim, D. Jang, and S. Park. `"Multimodal Deep Learning for Patent Classification"`. In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press_, UK, London, 2021 Feb. 25-26
 > > > * <ins>**J. Lee**</ins>, S. Park, and J. Kang. [`"Introducing Patents with Indirect Connection (PIC) for Establishing Patent Strategies"`](https://doi.org/10.3390/su13020820). _Sustainability_, 13(2), 820, 2021
@@ -46,7 +46,7 @@
 > > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, S. Park, and D. Jang. [`"Prediction of Robot Technology Using Multi-phase Model"`](http://10.12720/jait.11.3.181-185). _Journal of Advances in Information Technology_, 11(3), pp. 181-185, 2020
 > > #### **Domestic**
 > > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, S. Park, D. Jang, S. Hong, and S. Kim, [`"A Study on prediction of patent big data using supervised learning with dimension reduction model"`](http://dx.doi.org/10.17662/ksdim.2019.15.4.041). _Journal of the Korea Society of Digital Industry and Infromation Management_, 15(4), pp. 41-49, 2019
-> ### **Conference**
+> ### ⚡ **Conference**
 > > #### **International**
 > > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, S. Park, S. Jun, and D. Jang. `"A Study on Visualization of Technology Transfer using Distance based Patent Network Analysis"`. International Conference on Information Communication and Management, Prague, Czech Republic, 2019 Aug. 23-26
 > > > * <ins>**J. Lee**</ins>, J. Kang, J. Lee, S. Park, S. Jun, and D. Jang. `"A Study on the Visualization of Technology using weighted Global Vectors for Word Representation"`. International Conference on Fuzzy Theory and Its Applications, Daegu, Korea, 2018 Nov. 14-17  
