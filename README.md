@@ -1,5 +1,5 @@
 ### ⚡ **Juhyun Lee (이주현)** ⚡
-##### 👋 E-mail: leeju@korea.ac.kr
+##### 👋 E-mail: _leeju@korea.ac.kr_
 - - -
 ### 📗 **Education**
 
