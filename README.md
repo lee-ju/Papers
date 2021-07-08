@@ -3,21 +3,32 @@
 ### **Juhyun Lee**
 
 📗 **Education**
+
 📌 **Ph.D. Candidates**, (2018.03 - now) Industrial Engineering, [Korea University](https://vision.korea.ac.kr)
+
 📌 **B.S.**, (2012.03 - 2018.02) Statistics, Cheongju University
 
 🌱 **Research Interests**
+
 ✔️ Machine Learning & Deep Learning
+
 ✔️ Natural Language Processing
+
 ✔️ Machine Learning with Graphs
+
 ✔️ Technology Management
 
 - - -
 🏆 **Honors & Awards**
+
 📌 Korea University Graduate Student Achievement Award (2021.02)
+
 📌 Campus Patent Universiade [**우수상**](https://www.kipa.org/cpu/4_u2020.jsp) (2020.11)
+
 📌 Patent Datathon **특허청장상** (2020.09)
+
 📌 Campus Patent Universiade [**우수상**](https://www.kipa.org/cpu/4_u2019.jsp) (2019.11)
+
 📌 Campus Patent Universiade [**장려상**](https://www.kipa.org/cpu/4_u2018.jsp) (2018.11)
 
 - - -
