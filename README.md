@@ -1,14 +1,14 @@
 ### **Juhyun Lee (이주현)** 👋
 ##### 💻 E-mail: _leeju@korea.ac.kr_
 - - -
-### 📗 **Education**
+### 📗 _**Education**_
 
 ##### 📌 **Ph.D. Candidates**, (2018.03 - now) Industrial Engineering, [Korea University](https://vision.korea.ac.kr)
 
 ##### 📌 **B.S.**, (2012.03 - 2018.02) Statistics, Cheongju University
 
 - - -
-### 🌱 **Research Interests**
+### 🌱 _**Research Interests**_
 
 ##### ✔️ Machine Learning & Deep Learning
 
@@ -38,8 +38,8 @@
 ##### 📌 제4회 오픈 Minitab 포스터 대회 [**동상**](https://www.minitab.co.kr/minitab/new/product/product0403_05.php) (2015.09)
 - - -
 ### 📄 **Papers**
-> #### ⚡ **Journal**
-> > #### **> International**
+> #### ⚡ _**Journal**_
+> > #### _**> International**_
 > > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, Y. Kim, D. Jang, and S. Park. `"Multimodal Deep Learning for Patent Classification"`. In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press_, UK, London, 2021 Feb. 25-26
 > > > * <ins>**J. Lee**</ins>, S. Park, and J. Kang. [`"Introducing Patents with Indirect Connection (PIC) for Establishing Patent Strategies"`](https://doi.org/10.3390/su13020820). _Sustainability_, 13(2), 820, 2021
 > > > * <ins>**J. Lee**</ins>, J. Kang, S. Park, D. Jang, and J. Lee. [`"A Multi–Class Classification Model for Technology Evaluation"`](https://doi.org/10.3390/su12156153). _Sustainability_, 12(15), 6153, 2020
