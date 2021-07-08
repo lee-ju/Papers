@@ -8,10 +8,10 @@
 > > #### - **Ph.D. Candidates**, (2018.03 - now) Industrial Engineering, [Korea University](https://vision.korea.ac.kr)
 > > #### - **B.S.**, (2012.03 - 2018.02) Statistics, Cheongju University
 > ## **Research Interests**
-> > - [x] Machine Learning & Deep Learning
-> > - [x] Natural Language Processing
-> > - [x] Machine Learning with Graphs
-> > - [x] Technology Management
+> > ✔️ Machine Learning & Deep Learning
+> > ✔️ Natural Language Processing
+> > ✔️ Machine Learning with Graphs
+> > ✔️ Technology Management
 
 - - -
 # **Awards**
