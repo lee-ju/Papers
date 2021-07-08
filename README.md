@@ -1,4 +1,4 @@
-### **Juhyun Lee (이주현)** 👋👨‍💻
+### **Juhyun Lee (이주현)** 👋
 ##### 💻 E-mail: _leeju@korea.ac.kr_
 - - -
 ### 📗 **Education**
@@ -8,7 +8,7 @@
 ##### 📌 **B.S.**, (2012.03 - 2018.02) Statistics, Cheongju University
 
 - - -
-### 🌱 **Research Interests**
+### 👨‍💻 **Research Interests**
 
 ##### ✔️ Machine Learning & Deep Learning
 
