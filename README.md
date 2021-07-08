@@ -1,10 +1,8 @@
 ##### Update date: 2021. 07. 05.
 
-# **Biography**
-> ## **I am**
-> > #### - **Name**: Juhyun Lee (이주현)
-> > #### - **E-mail**: leeju@korea.ac.kr
-> ## **Education**
+### **Juhyun Lee**
+
+📗 ### **Education**
 > > #### - **Ph.D. Candidates**, (2018.03 - now) Industrial Engineering, [Korea University](https://vision.korea.ac.kr)
 > > #### - **B.S.**, (2012.03 - 2018.02) Statistics, Cheongju University
 > ## **Research Interests**
