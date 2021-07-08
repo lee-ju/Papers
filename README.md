@@ -33,6 +33,11 @@
 
 ##### 📌 Campus Patent Universiade [**장려상**](https://www.kipa.org/cpu/4_u2018.jsp) (2018.11)
 
+##### 📌 특허분석 방법론 경진대회 [**한국특허전략개발원장상**](https://www.kista.re.kr/webzine/vol02/jsp/vol02/sub09.jsp) (2017.11)
+
+##### 📌 특허분석 방법론 경진대회 [**한국지식재산전략원장상**](http://biz.kista.re.kr/iprnd/front/contest/contest.do?method=contestInfo&ju_mn=04&bu_mn=03&sub_mn=01) (2016.12)
+
+##### 📌 제4회 오픈 Minitab 포스터 대회 [**동상**](https://www.minitab.co.kr/minitab/new/product/product0403_05.php) (2015.09)
 - - -
 ### 📄 **Papers**
 > #### **Journal**
