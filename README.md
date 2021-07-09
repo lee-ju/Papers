@@ -40,8 +40,8 @@
 ### 📄 **Papers**
 > #### ⚡ _**Journal**_
 > > #### _**> International**_
-> > > * Y. Kim, J. Lee, J. Kang, <ins>**J. Lee**</ins>, D. Jang, and S. Park, `"A Study on the Comparison of Feature Extraction Methods for Classification of Patent Litigation"`. In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press_, UK, London, 2021 Feb. 25-26
-> > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, Y. Kim, D. Jang, and S. Park. `"Multimodal Deep Learning for Patent Classification"`. In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press_, UK, London, 2021 Feb. 25-26
+> > > * Y. Kim, J. Lee, J. Kang, <ins>**J. Lee**</ins>, D. Jang, and S. Park, `"A Study on the Comparison of Feature Extraction Methods for Classification of Patent Litigation"`. In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press Springer_, 2021
+> > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, Y. Kim, D. Jang, and S. Park. `"Multimodal Deep Learning for Patent Classification"`. In _Proceedings of Sixth International Congress on Information and Communication Technology_, _In Press Springer_, 2021
 > > > * <ins>**J. Lee**</ins>, S. Park, and J. Kang. [`"Introducing Patents with Indirect Connection (PIC) for Establishing Patent Strategies"`](https://doi.org/10.3390/su13020820). _Sustainability_, 13(2), 820, 2021
 > > > * <ins>**J. Lee**</ins>, J. Kang, S. Park, D. Jang, and J. Lee. [`"A Multi–Class Classification Model for Technology Evaluation"`](https://doi.org/10.3390/su12156153). _Sustainability_, 12(15), 6153, 2020
 > > > * <ins>**J. Lee**</ins>, J. Lee, J. Kang, S. Park, and D. Jang. [`"Prediction of Robot Technology Using Multi-phase Model"`](http://10.12720/jait.11.3.181-185). _Journal of Advances in Information Technology_, 11(3), pp. 181-185, 2020
