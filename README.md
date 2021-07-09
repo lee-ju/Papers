@@ -1,7 +1,7 @@
 ### **Juhyun Lee (이주현)** 👋
 ##### 📨 E-mail: _leeju@korea.ac.kr_
 - - -
-### 📗 **Education**
+### 📙 **Education**
 
 ##### 📌 **Ph.D. Candidates**, (2018.03 - now) Industrial Engineering, [Korea University](https://vision.korea.ac.kr)
 
