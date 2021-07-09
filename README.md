@@ -10,13 +10,13 @@
 - - -
 ### 👨‍💻 **Research Interests**
 
-##### ✅ Machine Learning & Deep Learning
+##### ☑️ Machine Learning & Deep Learning
 
-##### ✅ Natural Language Processing
+##### ☑️ Natural Language Processing
 
-##### ✅ Machine Learning with Graphs
+##### ☑️ Machine Learning with Graphs
 
-##### ✅ Technology Management
+##### ☑️ Technology Management
 
 - - -
 ### 🏆 **Honors & Awards**
