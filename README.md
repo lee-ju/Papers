@@ -3,9 +3,9 @@
 - - -
 ### 📙 **Education**
 
-##### 📌 **Ph.D. Candidates**, (2018.03 - now) Industrial Engineering, [Korea University](https://vision.korea.ac.kr)
+##### 📌 **Ph.D. Candidates**, (2018.03 - now) **Industrial Engineering**, [_Korea University_](https://vision.korea.ac.kr)
 
-##### 📌 **B.S.**, (2012.03 - 2018.02) Statistics, Cheongju University
+##### 📌 **B.S.**, (2012.03 - 2018.02) **Statistics**, _Cheongju University_
 
 - - -
 ### 👨‍💻 **Research Interests**
