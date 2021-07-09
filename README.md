@@ -21,7 +21,7 @@
 - - -
 ### 🏆 **Honors & Awards**
 
-##### 📌 Korea University Graduate Student Achievement Award (2021.02)
+_     _ ##### 📌 Korea University Graduate Student Achievement Award (2021.02)
 
 ##### 📌 Campus Patent Universiade [**우수상**](https://www.kipa.org/cpu/4_u2020.jsp) (2020.11)
 
